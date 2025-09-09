@@ -34,6 +34,18 @@ This project showcases the ability to create a **feature-rich application within
     <img src="public/book.png" alt="Home Screen" style="width: 100%; display: inline-block; margin-right: 1%;"/>
 </div>
 
+<div>
+    <img src="public/recipe (1).png" alt="Home Screen" style="width: 100%; display: inline-block; margin-right: 1%;"/>
+</div>
+
+<div>
+    <img src="public/weather.png" alt="Home Screen" style="width: 100%; display: inline-block; margin-right: 1%;"/>
+</div>
+
+<div>
+    <img src="public/earthquake.png" alt="Home Screen" style="width: 100%; display: inline-block; margin-right: 1%;"/>
+</div>
+
 ---
 
 ## 🚀 Getting Started  
