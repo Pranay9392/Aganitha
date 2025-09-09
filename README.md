@@ -50,6 +50,21 @@ This project showcases the ability to create a **feature-rich application within
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repository  
-```bash
+# Clone the repository
 git clone https://github.com/Pranay9392/Aganitha.git
+
+# Move into the project folder
+cd Aganitha
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
