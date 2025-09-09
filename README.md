@@ -37,5 +37,4 @@ This project showcases the ability to create a **feature-rich application within
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Pranay9392/mini-app-dashboard.git
-cd mini-app-dashboard
+git clone https://github.com/Pranay9392/Aganitha.git
