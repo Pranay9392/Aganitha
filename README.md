@@ -29,7 +29,10 @@ This project showcases the ability to create a **feature-rich application within
 
 ## 🖼️ Screenshots  
 
-(Add screenshots or GIFs of each mini-app here)  
+ 
+<div>
+    <img src="public/book.png" alt="Home Screen" style="width: 100%; display: inline-block; margin-right: 1%;"/>
+</div>
 
 ---
 
