@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 // Main App component
-const App = () => {
+const MiniApp = () => {
   const [currentPage, setCurrentPage] = useState('bookfinder');
 
   const renderPage = () => {
@@ -723,4 +723,4 @@ const EarthquakeVisualizer = () => {
   );
 };
 
-export default App;
+export default MiniApp;
