@@ -1,12 +1,41 @@
-# React + Vite
+# 📊 Mini-App Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A single-page, responsive web application built with **React** that consolidates multiple mini-applications into one user-friendly dashboard.  
+This project showcases the ability to create a **feature-rich application within a single file**, minimizing overhead and simplifying deployment.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features  
 
-## Expanding the ESLint configuration
+- 📚 **Book Finder** → Search for books using the **Open Library API** and view details like author, publication year, and description.  
+- 🌦️ **Weather Now** → Get current weather conditions for any city using the **Open-Meteo API**.  
+- 🍳 **Recipe Ideas** → Find recipes based on a single ingredient using the **TheMealDB API**, with detailed instructions and YouTube links.  
+- 🌍 **Earthquake Visualizer** → Display recent earthquakes on a **world map** using **USGS data**, with clickable markers for details.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Technical Overview  
+
+- **Single-File Architecture**: Entire app built inside `App.jsx` for **easy sharing, deployment, and understanding**.  
+- **Lightweight Navigation**: No external routing library — just a **switch-based transition system**.  
+- **Dynamic API Integration**: Fetches data from **public APIs** with `fetch()`.  
+- **Hooks & State Management**:  
+  - `useState` → Track user queries and API data.  
+  - `useEffect` → Handle API calls & canvas rendering.  
+- **Earthquake Visualizer**: Renders interactive markers for earthquakes on a world map.  
+- **Styling**: Powered by **Tailwind CSS** for a modern, responsive UI.  
+
+---
+
+## 🖼️ Screenshots  
+
+(Add screenshots or GIFs of each mini-app here)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/Pranay9392/mini-app-dashboard.git
+cd mini-app-dashboard
