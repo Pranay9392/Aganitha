@@ -16,7 +16,7 @@ This project showcases the ability to create a **feature-rich application within
 
 ## ⚙️ Technical Overview  
 
-- ⚡ **Single-File Architecture** → Entire app built inside `App.jsx` for **easy sharing, deployment, and understanding**.  
+- ⚡ **Single-File Architecture** → Entire app built inside `MiniApp.jsx` for **easy sharing, deployment, and understanding**.  
 - 🔄 **Lightweight Navigation** → No external routing library — just a **switch-based transition system**.  
 - 🌐 **Dynamic API Integration** → Fetches data from **public APIs** with `fetch()`.  
 - ⚙️ **Hooks & State Management**:  
