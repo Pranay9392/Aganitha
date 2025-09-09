@@ -535,7 +535,7 @@ const EarthquakeVisualizer = () => {
 
       // Draw a simple world map outline or background
       const mapImage = new Image();
-      mapImage.src = 'https://placehold.co/1920x1080/000000/ffffff?text=World+Map';
+      mapImage.src = "/worldmap.png";
       mapImage.onload = () => {
         ctx.globalAlpha = 0.5;
         ctx.drawImage(mapImage, 0, 0, canvas.width, canvas.height);
