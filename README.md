@@ -1,4 +1,4 @@
-# 📊 Mini-App Dashboard  
+# 📊 Mini-App Dashboard  (Naukri_id : Naukri0925)
 
 A single-page, responsive web application built with **React** that consolidates multiple mini-applications into one user-friendly dashboard.  
 This project showcases the ability to create a **feature-rich application within a single file**, minimizing overhead and simplifying deployment.  
